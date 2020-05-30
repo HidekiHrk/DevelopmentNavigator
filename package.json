@@ -1,0 +1,26 @@
+{
+  "name": "developmentnavigator",
+  "version": "0.0.1",
+  "description": "A Simple navigator for development built with electron.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --icon=./img/icon.ico --asar",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HidekiHrk/DevelopmentNavigator.git"
+  },
+  "author": "HidekiHrk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HidekiHrk/DevelopmentNavigator/issues"
+  },
+  "homepage": "https://github.com/HidekiHrk/DevelopmentNavigator#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^9.0.0",
+    "electron-packager": "^14.2.1"
+  }
+}
