@@ -20,7 +20,7 @@
   "homepage": "https://github.com/HidekiHrk/DevelopmentNavigator#readme",
   "dependencies": {},
   "devDependencies": {
-    "electron": "^9.3.1",
+    "electron": "^15.5.5",
     "electron-packager": "^14.2.1"
   }
 }
